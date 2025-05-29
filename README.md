@@ -142,7 +142,3 @@ Si terminas antes, intenta añadir:
 - Guarda las notas en `localStorage` para mantenerlas tras refrescar.
 - Mostrar un mensaje si no hay notas
 - Validar que no se pueda añadir una nota vacía
-
-```
-
-```
